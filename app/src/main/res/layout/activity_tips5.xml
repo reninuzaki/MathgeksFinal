@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tips5">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hehe"
+        >
+
+        <RelativeLayout
+            android:background="@color/hehe2"
+            android:layout_marginTop="32dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/hehe3"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="12dp"
+                android:fontFamily="@font/heavitas"
+                android:text="Multiplication Table"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:layout_width="62dp"
+                android:layout_height="62dp"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/maths" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="90dp"
+        >
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:alignmentMode="alignMargins"
+            android:columnCount="1"
+            android:columnOrderPreserved="false"
+            android:rowCount="1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/tip1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="12dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="6dp"
+                android:transitionName="example_transition"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/hehe3"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:layout_width="350dp"
+                        android:layout_height="300dp"
+                        android:src="@drawable/multiplicationtble"
+                        android:background="@color/hehe2"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:fontFamily="@font/heavitas"
+                        android:text="How to Memorize Multiplication?"
+                        android:textAlignment="center"
+                        android:textColor="@color/btcolor"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@color/hehe2"
+                        android:fontFamily="@font/heycomic"
+                        android:text="We’ll go through a 1-10 times table chart and show you the best tips to teach your students."
+                        android:textAlignment="center"
+                        android:textColor="@color/hehe3"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@color/hehe2"
+                        android:fontFamily="@font/heycomic"
+                        android:text="Tip 1. \n When we multiply two numbers, it does not matter which is first or second, the answer is always the same"
+                        android:textAlignment="center"
+                        android:textColor="@color/hehe3"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@color/hehe2"
+                        android:fontFamily="@font/heycomic"
+                        android:text="Tip 2. \n Start learning the 5 times table \n Then learn up to 9 times 5 \n Lastly bring it all together by practicing the whole 10 times table"
+                        android:textAlignment="center"
+                        android:textColor="@color/hehe3"
+                        android:textSize="17sp" />
+
+
+
+
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/tip2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_margin="12dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="6dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/hehe3"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:fontFamily="@font/heavitas"
+                        android:text="Patterns"
+                        android:textAlignment="center"
+                        android:textColor="@color/btcolor"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@color/hehe2"
+                        android:fontFamily="@font/heycomic"
+                        android:text="There are some patterns which can help you remember:"
+                        android:textAlignment="center"
+                        android:textColor="@color/hehe3"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@color/hehe2"
+                        android:fontFamily="@font/heycomic"
+                        android:text="2× is just doubling the number. The same as adding the number to itself.
+"
+                        android:textAlignment="center"
+                        android:textColor="@color/hehe3"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:background="@color/hehe2"
+                        android:fontFamily="@font/heycomic"
+                        android:text="So the pattern is 2,4,6,8,10,12,16,18,20 \n (And once you remember those, you also know 3×2, 4×2, 5×2, etc., right?) \n 5× has a pattern: 5, 10, 15, 20, etc. It ends in either 0 or 5. \n Now, notice how the ones place goes down: 9, 8, 7, 6, ...? And at the same time, the tens place goes up: 1, 2, 3,...? Well, your hands can help! \n Example: to multiply 9 by 8: hold your 8th finger down, and you can count 7 and 2 ... the answer is 72 \n 10× is maybe the easiest of them all ... just put a zero after it."
+                        android:textAlignment="center"
+                        android:textColor="@color/hehe3"
+                        android:textSize="17sp" />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+        </GridLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

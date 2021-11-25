@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mathgeksfinal">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoapp"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Mathgeksfinal">
+        <activity
+            android:name=".Main"
+            android:exported="false" />
+        <activity
+            android:name=".Tips8"
+            android:exported="false" />
+        <activity
+            android:name=".Tips7"
+            android:exported="false" />
+        <activity
+            android:name=".tips5"
+            android:exported="false" />
+        <activity
+            android:name=".Tips4"
+            android:exported="false" />
+        <activity
+            android:name=".tips3"
+            android:exported="false" />
+        <activity
+            android:name=".Guide11"
+            android:exported="false" />
+        <activity
+            android:name=".guide1"
+            android:exported="false" />
+        <activity
+            android:name=".QuickMathLoadingAcitivty"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsActivityy"
+            android:exported="false" />
+        <activity
+            android:name=".QuickPlay"
+            android:exported="false" />
+        <activity
+            android:name=".ScoreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IntermediateQuizActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SolveAPicResult2"
+            android:exported="false" />
+        <activity
+            android:name=".StartGameSolveAPic"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Tips1"
+            android:exported="false" />
+        <activity
+            android:name=".StartGamePlay"
+            android:exported="false" />
+        <activity
+            android:name=".Setting"
+            android:exported="false" />
+        <activity
+            android:name=".ProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RankingLeaderboard"
+            android:exported="false" />
+        <activity
+            android:name=".LeaderboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Settings"
+            android:exported="false" />
+        <activity
+            android:name=".TipsAndGuideActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BeginnerLevelActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CorrectDialog"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CategoryActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PlayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuizActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".IntermediateLevelActivity" />
+        <activity android:name=".AccountActivity" />
+        <activity android:name=".AdvanceLevelActivity" />
+        <activity android:name=".Tips2" />
+        <activity android:name=".about" />
+    </application>
+
+</manifest>

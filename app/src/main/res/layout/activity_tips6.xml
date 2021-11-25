@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Guide11">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hehe"
+        >
+
+        <RelativeLayout
+            android:background="@color/hehe2"
+            android:layout_marginTop="32dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/hehe3"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="12dp"
+                android:fontFamily="@font/heavitas"
+                android:text="Enhancing the Mind \n to Math"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:layout_width="62dp"
+                android:layout_height="62dp"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/maths" />
+
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:alignmentMode="alignMargins"
+                android:columnCount="1"
+                android:columnOrderPreserved="false"
+                android:rowCount="1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/tip1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    android:transitionName="example_transition"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="6dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/hehe3"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <ImageView
+                            android:layout_width="350dp"
+                            android:layout_height="300dp"
+                            android:background="@color/hehe2"
+                            android:src="@drawable/brain" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:fontFamily="@font/heavitas"
+                            android:text="How Math can help you? \n to Develop Brain"
+                            android:textAlignment="center"
+                            android:textColor="@color/btcolor"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:background="@color/hehe2"
+                            android:fontFamily="@font/heycomic"
+                            android:text="Mathematics is the best exercise for the brain. \n The more you do the math, the more you will find your mind active"
+                            android:textAlignment="center"
+                            android:textColor="@color/hehe3"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:background="@color/hehe2"
+                            android:fontFamily="@font/heycomic"
+                            android:text="Tip 1. \n Focus on Understanding Concepts \n You can memorize formulas and rules to complete many math problems, \n This makes it harder to successfully solve problems, as well as making it nearly impossible to easily absorb new information "
+                            android:textAlignment="center"
+                            android:textColor="@color/hehe3"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:background="@color/hehe2"
+                            android:fontFamily="@font/heycomic"
+                            android:text="Tip 2. \n Go Over New Concepts and Practice Problems \n Practice makes perfect, even with math. If you are struggling with a particular kind of problem, you can improve by working on solving additional problems. You can start out with simplified problems of the same type, and move up in difficulty as you become more comfortable with finding the solutions."
+                            android:textAlignment="center"
+                            android:textColor="@color/hehe3"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:background="@color/hehe2"
+                            android:fontFamily="@font/heycomic"
+                            android:text="Tip 3. \n Apply Math to Real Life \n Understanding why and how math is important can give you the motivation you need to keep applying yourself. \n Try to think of real-world examples where math is applied and consider what math concepts you would need to use in these conditions."
+                            android:textAlignment="center"
+                            android:textColor="@color/hehe3"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:background="@color/hehe2"
+                            android:fontFamily="@font/heycomic"
+                            android:text="Tip 4. \n Apply Math to Real Life \n Understanding why and how math is important can give you the motivation you need to keep applying yourself. \n Try to think of real-world examples where math is applied and consider what math concepts you would need to use in these conditions."
+                            android:textAlignment="center"
+                            android:textColor="@color/hehe3"
+                            android:textSize="17sp" />
+
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+
+            </GridLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

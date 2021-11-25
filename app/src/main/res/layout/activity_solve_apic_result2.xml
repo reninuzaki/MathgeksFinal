@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_ui"
+    android:gravity="center"
+    android:padding="16dp">
+    <!-- Create a LinearLayout for showing restart and exit ImageButtons -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Splendid Work! "
+            android:textAlignment="center"
+            android:fontFamily="@font/heavitas"
+            android:textColor="@color/btcolor"
+            android:textSize="30sp" />
+
+        <!-- Create a filler View to push Exit ImageButton to the right. -->
+
+
+    </LinearLayout>
+    <!-- Create a filler View -->
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!-- Create a LinearLayout for showing points and personal best. -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_marginRight="20dp"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Points: "
+                android:fontFamily="@font/heavitas"
+                android:textColor="@color/btcolor"
+                android:textSize="30sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvPoints"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="60sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Personal best: "
+                android:fontFamily="@font/heavitas"
+                android:textColor="@color/btcolor"
+                android:textSize="30sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvPersonalBest"
+                android:layout_weight="1"
+                android:textColor="#ff6000"
+                android:textSize="30sp" />
+        </LinearLayout>
+    </LinearLayout>
+    <!-- Let's show the game over image with an ImageView -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GAME OVER"
+        />
+    <!-- Create another filler View to show the main content that is the points, personal best
+    and game over graphic in nearly the middle. -->
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="64dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/restart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_corner_button"
+        android:fontFamily="@font/heavitas"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:text="Restart"
+        android:layout_marginBottom="20dp"
+        />
+
+    <Button
+        android:id="@+id/mainmenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_corner_button"
+        android:fontFamily="@font/heavitas"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:text="Main Menu"
+        android:layout_marginBottom="100dp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "352262882194",
+    "firebase_url": "https://mathgeks-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mathgeks",
+    "storage_bucket": "mathgeks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352262882194:android:ffee52aecb9b78998af74b",
+        "android_client_info": {
+          "package_name": "com.dinocodeacademy.maingoquizagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352262882194-9jphjs8ug18pajsn8i9duqru117thoc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNSp5iw54jkmuuohN-9EYDot5EGqlCVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352262882194-9jphjs8ug18pajsn8i9duqru117thoc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352262882194:android:31655f075c01de1e8af74b",
+        "android_client_info": {
+          "package_name": "com.example.mathgeksfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352262882194-9jphjs8ug18pajsn8i9duqru117thoc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNSp5iw54jkmuuohN-9EYDot5EGqlCVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352262882194-9jphjs8ug18pajsn8i9duqru117thoc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352262882194:android:40084bb4024bd3138af74b",
+        "android_client_info": {
+          "package_name": "com.example.sqdqwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352262882194-9jphjs8ug18pajsn8i9duqru117thoc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNSp5iw54jkmuuohN-9EYDot5EGqlCVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352262882194-9jphjs8ug18pajsn8i9duqru117thoc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

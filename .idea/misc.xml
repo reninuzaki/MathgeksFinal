@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable-v24/book.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable-v24/circle.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable-v24/home_bg.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable-v24/question_board_1.xml" value="0.3365740740740741" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable-v24/round_corner_button.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/background1.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/background2.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/background3.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/correct_button_g.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/gradientlist.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/highscore_disabled_drkmd.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/ic_checkk_background.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/ic_right_foreground.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/ic_rights_background.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/ic_rights_foreground.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/ic_volume_up_black_24dp.xml" value="0.3072649572649573" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/level_lock.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/main_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/question_board.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/quiz.xml" value="0.2456081081081081" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/red_popup_button_style.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/round_corner_button.xml" value="0.21875" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/round_view.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/setting_containerbg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/drawable/wrong_button_g.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-land/activity_category.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-sw720dp/activity_category.xml" value="0.271875" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-sw720dp/activity_time_trials.xml" value="0.26366120218579236" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-sw720dp/activity_tips2.xml" value="0.26366120218579236" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-sw720dp/activity_tips3.xml" value="0.26366120218579236" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-sw720dp/activity_tips4.xml" value="0.26366120218579236" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout-sw720dp/score_popup.xml" value="0.23258196721311475" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/Sign in Sucessfully.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_account.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_advance_level.xml" value="0.25" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_app_info.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_beginner_level.xml" value="0.33" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_correct_dialog.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_guide1.xml" value="0.2260135135135135" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_guide11.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_intermediate_level.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_intermediate_quiz.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_leaderboard.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_login.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_play.xml" value="0.33" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_product.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_products_model.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_quick_math_loading_acitivty.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_quick_play.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_quiz.xml" value="0.33" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_ranking.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_ranking_leaderboard.xml" value="0.2858974358974359" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_score.xml" value="0.22" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_setting.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_settings_activityy.xml" value="0.3029891304347826" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_signup.xml" value="0.33242753623188404" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_solve_apic.xml" value="0.33469202898550726" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_solve_apic_result.xml" value="0.32472826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_solve_apic_result2.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_start_game_play.xml" value="0.2971014492753623" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_start_game_solve_apic.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips1.xml" value="0.25" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips2.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips3.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips4.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips5.xml" value="0.1893491124260355" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips6.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips7.xml" value="0.19393939393939394" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips8.xml" value="0.19692307692307692" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/activity_tips_and_guide.xml" value="0.2" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/alert_dialog_back.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/alert_dialog_healthbar.xml" value="0.2429054054054054" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/alert_dialog_layout.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/alert_dialog_layoutBack.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/asdqwe.xml" value="0.2858974358974359" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/correct_dialog.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/correctdialog.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/dialog_layout.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/fragment_setting.xml" value="0.3029891304347826" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/layout_ranking.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/level_lock.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/list_item_single.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/rank_item.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/rank_item_layout.xml" value="0.5" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/score_pop_up.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/sign_in_sucessfully.xml" value="0.33" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/timer_dialog.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/layout/wrong_dialog.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/ROG/AndroidStudioProjects/Mathgeksfinal/app/src/main/res/xml/preference.xml" value="0.3029891304347826" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
