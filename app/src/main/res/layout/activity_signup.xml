@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hehe3"
+    tools:context=".SignupActivity">
+
+    <ImageView
+        android:id="@+id/backbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:elevation="3dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="?attr/actionModeCloseDrawable" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/btcolor"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/logoapp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="MathGeks"
+            android:fontFamily="@font/heavitas"
+            android:textColor="#533535"
+            android:textSize="32sp" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/edit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="16dp"
+        android:background="@color/hehe3"
+        app:layout_constraintTop_toBottomOf="@id/linearLayout"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:text="CREATE AN ACCOUNT"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="32dp"
+            android:drawableLeft="@drawable/account"
+            android:drawableTint="@color/btcolor"
+            android:drawablePadding="16dp"
+            android:backgroundTint="@color/btcolor"
+            android:textColor="@color/black"
+            android:hint="Full Name"
+            android:fontFamily="@font/heavitas"
+            android:ems="10"
+            android:inputType="text"
+            />
+
+        <EditText
+            android:id="@+id/emailID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:drawableLeft="@drawable/email"
+            android:drawableTint="@color/hehe2"
+            android:drawablePadding="16dp"
+            android:backgroundTint="@color/btcolor"
+            android:textColor="@color/black"
+            android:hint="Email Address"
+            android:fontFamily="@font/heavitas"
+            android:ems="10"
+            android:inputType="text"/>
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:drawableLeft="@drawable/password"
+            android:drawableTint="@color/btcolor"
+            android:drawablePadding="16dp"
+            android:backgroundTint="@color/btcolor"
+            android:textColor="@color/black"
+            android:hint="Password"
+            android:fontFamily="@font/heavitas"
+            android:ems="10"
+            android:inputType="text"/>
+        <EditText
+            android:id="@+id/confirm_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:drawableLeft="@drawable/password"
+            android:drawableTint="@color/btcolor"
+            android:drawablePadding="16dp"
+            android:backgroundTint="@color/btcolor"
+            android:textColor="@color/black"
+            android:hint="Confirm Password"
+            android:ems="10"
+            android:fontFamily="@font/heavitas"
+            android:inputType="text"/>
+
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="32dp"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:elevation="5dp"
+        android:translationZ="3dp"
+        android:stateListAnimator="@null"
+        android:background="@drawable/round_corner_button"
+        android:text="Sign Up"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fontFamily="@font/heavitas"
+        app:layout_constraintTop_toBottomOf="@+id/edit_layout" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
